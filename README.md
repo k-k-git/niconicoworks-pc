@@ -1,8 +1,4 @@
-# niconicoworks-pc
-WEB Design & Create NICONICOWORKS PC themes
-
-フリーランス活動用のサイトニコニコワークスのPC用テーマです。
+# PC版 | ニコニコワークス
+フリーランス活動を想定して制作したサイトです。
 
 モバイルテーマはマルチデバイスプラグインで専用テーマへ切り替えています。
-
-https://niconicoworks.com/
